@@ -1,0 +1,20 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "wordle game in the web!",
+  "main": "index.js",
+  "scripts": {
+    "dev-sass": "sass src/style.scss src/style.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/einat65/wordle.git"
+  },
+  "author": "einat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/einat65/wordle/issues"
+  },
+  "homepage": "https://github.com/einat65/wordle#readme"
+}
